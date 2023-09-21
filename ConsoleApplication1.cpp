@@ -1,4 +1,4 @@
-// ConsoleApplication1.cpp: определяет точку входа для консольного приложения.
+// ConsoleApplication1.cpp: Г®ГЇГ°ГҐГ¤ГҐГ«ГїГҐГІ ГІГ®Г·ГЄГі ГўГµГ®Г¤Г  Г¤Г«Гї ГЄГ®Г­Г±Г®Г«ГјГ­Г®ГЈГ® ГЇГ°ГЁГ«Г®Г¦ГҐГ­ГЁГї.
 //
 
 #include "stdafx.h"
@@ -15,6 +15,6 @@ int main()
 	arr[N - 1] = el;
 
 	for (int i = 0; i < N; ++i)
-		printf(" ", arr[i]);
+		printf("%d ", arr[i]);
 }
 
